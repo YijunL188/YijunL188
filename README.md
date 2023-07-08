@@ -6,6 +6,6 @@ I'm passionate about helping businesses derive meaningful insights from their da
 ### TOOLS🛠️ 
 * Database:MySQL, PostgreSQL, MSSMS
 * Python: NumPy, Pandas
-* Data Visualization: Matplotlib, Seaborn, Tableau
+* Data Visualization: Matplotlib, Seaborn, Tableau, Power BI
 
 
