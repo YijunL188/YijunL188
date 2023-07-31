@@ -4,7 +4,7 @@ I'm Yi Jun, a self-taught data analyst with a background in engineering and a st
 I'm passionate about helping businesses derive meaningful insights from their data. Currently, I'm open to opportunities in roles such as Data Analyst, Business Intelligence Analyst, and Data Engineer.
 
 ### TOOLS🛠️ 
-* Database:MySQL, PostgreSQL, MSSMS
+* Database: MySQL, PostgreSQL, MSSMS
 * Python: NumPy, Pandas
 * Data Visualization: Matplotlib, Seaborn, Tableau, Power BI
 
